@@ -7,7 +7,7 @@
 
 GAFAMのエンジニアリングラダーや、評価方針、採用、文化の比較については、こちらを参照ください。**[各社の比較と考察](./research/comparisons/README.md)**
 
-DBRE向けのエンジニアリングラダーも用意しましたので **[DBRE (Database Reliability Engineering) Competency Matrix](DBRE-Competency-Matrix.md)** もどうぞご活用ください。
+DBRE向けのエンジニアリングラダーも用意しましたので **[DBRE (Database Reliability Engineering) Competency Matrix](dbre-competency-matrix.md)** もどうぞご活用ください。
 
 PRをする際は、以下を参照の上でお願いします。
 
