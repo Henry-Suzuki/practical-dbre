@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Language](https://img.shields.io/badge/language-SQL%20%7C%20Go%20%7C%20Terraform-orange)
 
-このリポジトリは、書籍 **『  [実践DBRE](https://amzn.asia/d/7zoYUrk) 』** の追加コンテンツです。
+このリポジトリは、書籍 **『[実践DBRE Vol.1](https://amzn.asia/d/7zoYUrk) 』『[実践DBRE Vol.2](https://amzn.asia/d/eQgW0lz) 』『[実践DBRE Vol.3](https://amzn.asia/d/i7TSdkg) 』** の追加コンテンツです。
 
 GAFAMのエンジニアリングラダーや、評価方針、採用、文化の比較については、こちらを参照ください。**[各社の比較と考察](./research/comparisons/README.md)**
 
