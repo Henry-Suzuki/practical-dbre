@@ -33,7 +33,7 @@
 - [Netflix Culture Memo](https://jobs.netflix.com/culture)
 
 ## 更新日
-2025年12月18日
+2025年10月18日
 
 ## 備考
 - Freedom & Responsibility文化が組織構造に大きく影響

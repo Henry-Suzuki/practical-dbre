@@ -52,7 +52,7 @@
 - [CircleCI Blog](https://circleci.com/blog/)
 
 ## 更新日
-2025年12月18日
+2025年10月18日
 
 ## 備考
 - Google SpreadsheetのURLを確認する必要がある

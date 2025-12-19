@@ -242,7 +242,7 @@ CircleCIはGoogle Spreadsheetでエンジニアリングラダー（Engineering 
 - [CircleCI Blog](https://circleci.com/blog/)
 
 ## 更新日
-2025年12月18日
+2025年10月18日
 
 ## 備考
 - Google Spreadsheetで公開されており、詳細な情報が入手可能

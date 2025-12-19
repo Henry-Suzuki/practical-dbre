@@ -116,5 +116,5 @@
 5. **公開されている情報の活用**: AmazonのLeadership Principles、NetflixのCulture Memo、SpotifyのSquad/Tribe/Chapter/Guildモデルなど、公開されている情報を活用する
 
 ## 更新日
-2025年12月18日
+2025年10月18日
 

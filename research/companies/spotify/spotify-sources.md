@@ -44,7 +44,7 @@
 - [Spotify Labs](https://labs.spotify.com/)
 
 ## 更新日
-2025年12月18日
+2025年10月18日
 
 ## 備考
 - Squad/Tribe/Chapter/Guildモデルは有名だが、現在は変更されている可能性がある

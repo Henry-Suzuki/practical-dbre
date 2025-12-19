@@ -46,7 +46,7 @@
 - [Netflix Tech Blog](https://netflixtechblog.com/)
 
 ## 更新日
-2025年12月18日
+2025年10月18日
 
 ## 備考
 - 情報の正確性を確認する必要がある
